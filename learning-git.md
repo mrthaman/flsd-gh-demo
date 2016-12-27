@@ -15,3 +15,4 @@ I have added the following changes:
 
 ## This text was added by Textastic on iOS.
 
+## Trying to figure out how upload files from iOS.
