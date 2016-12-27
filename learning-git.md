@@ -12,3 +12,6 @@ Goals for GitHub EDU
 I have added the following changes:
 * H2
 * This text
+
+## This text was added by Textastic on iOS.
+
